@@ -37,14 +37,19 @@
 
 1. [Шапка Matplotlib](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_matplotLib_Intro_1.ipynb) и размеры картинок в тетрадке.
 2. [Интро matplotlib](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_adult_visual_matplotlib_practice.ipynb) и первые картинки от matplotlib в тетрадке.
+
 2. [x for x in data.columns if 'name' in x](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_adult_visual_and_plotly_standart_practice.ipynb) в приложении к созданию графиков.
-3. [pd.melt и seaborn in action titanic df](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_titanic_visual_practice.ipynb) во время визаульного анализа задачи титаника.
+3. [pd.melt и seaborn in action titanic df](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_titanic_visual_practice.ipynb) во время визаульного анализа Титаника.
+
 4. [Визуальный анализ практических данных](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_ru_python_beginners_uniques_and_visual_practice.ipynb) учимся смотреть статистику чатиков.
 5. [Пробуем сделать красиво в первый раз](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_ru_python_beginnes_chat_super_pearson_visual_and_t-sne_practice.ipynb) и понимаем, что красиво пока не получается.
+
 6. [Смотрим как "красиво" делают другие](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_cardio_longformat_visual_practice.ipynb) и запоминаем понятие longformat в приложении к визуальному анализу.
 7. [Запоминаем как правильно выглядит t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_telecom_plotly_and_t-sne_practice.ipynb) в представлении людей, которые хотят извлечь из него оценку данных.
+
 8. [Включаем голову, правим руки и делаем красиво](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_cardio_full_visual_and_math_with_heatmaps_and_corr_maps_practice.ipynb) особое внимание уделяем созданию тепловых карт.
 9. [Осваиваем полученные навыки и пробуем в t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_heatmap_adult_titanic_video_games_sales_telecom_and_some_t-sne_practice.ipynb) и понимает, что данные для t-sne нужно готовить.
+
 10. [Наслаждаемся процессом и идём читать про t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_video_games_sales_visual_and_croossearch_practice.ipynb) -  до уровня "что такое многомерное пространство".
 
 
