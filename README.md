@@ -12,7 +12,7 @@
 
 *По результатам общения со студентами с уверенностью могу сказать, что люди не пошли в слак ODS по причине того - что не смогли вкатиться в Pandas, пологаю это надо исправлять так, что бы к следующему запуску курса умеющих прибавилось.*  
 
-**полезные операции**
+**и полезные операции**
 
 1. [Накодить первый датафрейм](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_DataFrame_practice.ipynb) и сделать наконец выводы о том - что это такое.
 2. [Научиться добавлять новую колокнку](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_intro_basic_practice.ipynb) в датафрейм с данными из других колонок.
@@ -31,5 +31,20 @@
 11. [Разобраться как работает .map() в Pandas](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_telecom_standart_practice.ipynb) и постараться не забыть половину того что сверху.
 12. [Осознать, что типы данных - это очень важно](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_as_tool_for_logic_practice.ipynb) и что только ими можно как угодно крутить этим миром.
 
+# Часть 2. Графики.
+
+*Вкатиться в графики и процесс их построения гораздо сложнее, чем в базовые возможности кусочка стандартной бибилиотеки Paтdas, здесь всё надо трогать ручками, крутить, вертеть и запоминать в какой ситуации тетрадка строит красоту и годноту, а в какой - варп портал в сторону ока Хаоса.*
+
+1. [Шапка Matplotlib](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_matplotLib_Intro_1.ipynb) и размеры картинок в тетрадке.
+2. [Интро matplotlib](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_adult_visual_matplotlib_practice.ipynb) и первые картинки от matplotlib в тетрадке.
+2. [x for x in data.columns if 'name' in x](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_adult_visual_and_plotly_standart_practice.ipynb) в приложении к созданию графиков.
+3. [pd.melt и seaborn in action titanic df](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_titanic_visual_practice.ipynb) простой пример визаульного анализа известной задачи.
+4. [Визуальный анализ практических данных](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_ru_python_beginners_uniques_and_visual_practice.ipynb) учимся смотреть статистику чатиков.
+5. [Пробуем сделать красиво в первый раз](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_ru_python_beginnes_chat_super_pearson_visual_and_t-sne_practice.ipynb) и понимаем, что красиво пока не получается.
+6. [Смотрим как "красиво" делают другие](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_cardio_longformat_visual_practice.ipynb) и запоминаем понятие longformat в приложении к визуальному анализу данных.
+7. [Запоминаем как правильно выглядит t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_telecom_plotly_and_t-sne_practice.ipynb) в представлении людей, которые хотят извлечь из него оценку данных.
+8. [Включаем голову, правим руки и делаем красиво](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_cardio_full_visual_and_math_with_heatmaps_and_corr_maps_practice.ipynb) особое внимание уделяем рисованию тепловых карт.
+9. [Осваиваем полученные навыки и пробуем в t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_heatmap_adult_titanic_video_games_sales_telecom_and_some_t-sne_practice.ipynb) и понимает, что данные для t-sne нужно готовить.
+10. []()
 
 
