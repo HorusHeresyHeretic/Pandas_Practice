@@ -6,6 +6,6 @@
 
 # Часть 1. Pandas.
 
-*Традиционно предлагаю [годный саундтрэк для процесса](https://soundcloud.com/guilherme19952/iron-maiden-fear-of-the-dark-piano-cover). первая часть содержит тетрадки с ранее использованным фукнционалом стандартной библиотеки Pandas в рамках учебного курса ODS и бест практикс*
+*Традиционно предлагаю [годный саундтрэк для процесса](https://soundcloud.com/guilherme19952/iron-maiden-fear-of-the-dark-piano-cover). первая часть содержит тетрадки с ранее использованным фукнционалом стандартной библиотеки Pandas в рамках учебного курса ODS и [pandas best practice](https://tomaugspurger.github.io/modern-1-intro.html) от [бога Pandas](https://github.com/TomAugspurger)*
 
 
