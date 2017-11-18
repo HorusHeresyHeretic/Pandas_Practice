@@ -12,4 +12,10 @@
 
 *По результатам общения со студентами с уверенностью могу сказать, что люди не пошли в слак ODS по причине того - что не смогли вкатиться в Pandas, пологаю это надо исправлять так, что бы к следующему запуску курса умеющих прибавилось.*  
 
+**полезные операции**
+
+1. [Накодить первый датафрейм](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_DataFrame_practice.ipynb) и сделать наконец выводы о том - что это такое.
+2. [Научиться Добавить новую колокнку](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_intro_basic_practice.ipynb) в датафрейм с данными из других колонок.
+
+
 
