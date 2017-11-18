@@ -25,6 +25,7 @@
 9. [Разобраться как работает pd.melt и что](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_melt_and_visaul_practice.ipynb) может опйти не так если за ним не следить и использоватб как метлган.
 10. [Вспоминить о существовании True/False](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_testrain_indexing_true_false_practice.ipynb) и задуматься о том, как это работает в Pandas.
 11. [Разобраться как работает .map() в Pandas](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_telecom_standart_practice.ipynb) и постараться не забыть половину того что сверху.
+12. [Осонать, что типы данных - это очень важно](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_as_tool_for_logic_practice.ipynb) и что только ими можно как угодно крутить этим миром.
 
 
 
