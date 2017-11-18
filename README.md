@@ -45,6 +45,6 @@
 7. [Запоминаем как правильно выглядит t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_telecom_plotly_and_t-sne_practice.ipynb) в представлении людей, которые хотят извлечь из него оценку данных.
 8. [Включаем голову, правим руки и делаем красиво](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_cardio_full_visual_and_math_with_heatmaps_and_corr_maps_practice.ipynb) особое внимание уделяем рисованию тепловых карт.
 9. [Осваиваем полученные навыки и пробуем в t-SNE](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_heatmap_adult_titanic_video_games_sales_telecom_and_some_t-sne_practice.ipynb) и понимает, что данные для t-sne нужно готовить.
-10. []()
+10. [Паслаждаемся процессом и идём читать про матан](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_2/Pandas_video_games_sales_visual_and_croossearch_practice.ipynb) - чаитать до уровня представления о многомерном пространстве.
 
 
