@@ -111,6 +111,19 @@
 
 4. [Учимся строить полезный график точности](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_3/ML_df_telecom_factorize_and_standart_ml_practice_with_churn.ipynb) - тот, который в самом конце тетрадки, очень показательная вещь.
 
+**Когда половина значений в колонках - это str**
+
+5. [from sklearn.preprocessing import LabelEncoder](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_3/ML_traintest_label_encoder_in_action%20(1).ipynb)
+
+*Вероятнее всего вы уже сталкивались с ситуацией, в которой несколько столбцов датафрейма содержат текст .astype(str) - например, названия улиц и вам хотелось бы использовать эти данные в своей модели т.к они являються значимыми. Специально для этих целей умные люди придумали labelencoder. Этот божественный инструмент кодирует строки в np.array значения из которого можно использовать при построении любых моделей, поскольку после кодирования объект, к которому был применён labelencoder принимает вид int64.*
+
+6. [Пользуйтесь, вот вам ещё пример с LabelEncoder](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_3/ML_video_game_sales_label_encoder_in_action.ipynb)
+
+**когда всё стало плохо - и совсем ничего не помогает**
+
+7. [Что делать если kNN не считаеться и всё не так!](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_3/Ml_df_traintest_visual_take_a_hint_practice.ipynb)
+
+*Тогда нужно вспомнить заветы олдскульных дядечек о необходимости сокращать выборку по максимуму, перечитать всё выше мной описанное, включить голову и задать себе вопрос о характере данных с которыми вы работаете. Собственно говоря именно ради этого момента мы и учились строить графики и писать фильтры - что бы на основании анализа данных разработаь аналитическую методику, которая позволит совершить вычисления.*  
 
 
 
