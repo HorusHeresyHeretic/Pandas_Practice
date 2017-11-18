@@ -15,7 +15,9 @@
 **полезные операции**
 
 1. [Накодить первый датафрейм](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_DataFrame_practice.ipynb) и сделать наконец выводы о том - что это такое.
-2. [Научиться Добавить новую колокнку](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_intro_basic_practice.ipynb) в датафрейм с данными из других колонок.
+2. [Научиться добавлять новую колокнку](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_intro_basic_practice.ipynb) в датафрейм с данными из других колонок.
+3. [Познакомиться с datetime64 в Pandas](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_Dataframe_Datetime_conversion_practice.ipynb) и запомнить  основные ошибки, что бы потом не повторять.
+4. [Познакомиться с DS в Pandas ещё раз](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_Datetime_practice.ipynb) и зпомнить разницу между bool, int, float, object и datetime.
 
 
 
