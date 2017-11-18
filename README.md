@@ -16,12 +16,16 @@
 
 1. [Накодить первый датафрейм](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_DataFrame_practice.ipynb) и сделать наконец выводы о том - что это такое.
 2. [Научиться добавлять новую колокнку](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_intro_basic_practice.ipynb) в датафрейм с данными из других колонок.
+
 3. [Познакомиться с datetime64 в Pandas](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_Dataframe_Datetime_conversion_practice.ipynb) и запомнить  основные ошибки, что бы потом не повторять.
 4. [Познакомиться с DS в Pandas ещё раз](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_Datetime_practice.ipynb) и запомнить разницу между bool, int, float, object и datetime.
+
 5. [Научиться менять положение колонок](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_SortCols_Practice.ipynb) в датафрейме, на случай если будете писать собственные.
 6. [Научить наконец группировать данные](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_groupby_practice.ipynb) в датафрейме или хотя бы запомнить, что это возможно.
+
 7. [Осознать - что датафрейм это тоже ООП](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_index_telecom_practice.ipynb) и что объекты в нём также можно использовать как ООП.
 8. [Посмотреть как делать свобные таблицы](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_adult_pivot_table_and_crosstab_standart_numpy_and_sort_practice.ipynb) и окончательно убедиться в том, что Pandas это тоже ООП.
+
 9. [Разобраться как работает pd.melt и что](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_melt_and_visaul_practice.ipynb) может ройти не так если за ним не следить и юзать как метлган.
 10. [Вспоминить о существовании True/False](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_testrain_indexing_true_false_practice.ipynb) и задуматься о том, как это работает в Pandas.
 11. [Разобраться как работает .map() в Pandas](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_telecom_standart_practice.ipynb) и постараться не забыть половину того что сверху.
