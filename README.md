@@ -20,12 +20,12 @@
 4. [Познакомиться с DS в Pandas ещё раз](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_Datetime_practice.ipynb) и запомнить разницу между bool, int, float, object и datetime.
 5. [Научиться менять положение колонок](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_SortCols_Practice.ipynb) в датафрейме, на случай если будете писать собственные.
 6. [Научить наконец группировать данные](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_groupby_practice.ipynb) в датафрейме или хотя бы запомнить, что это возможно.
-7. [Осознать - что датафрейм это тоже ООП](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_index_telecom_practice.ipynb) и что объекты в нём также можно использовать в рамках ООП.
-8. [Посмотреть как делать свобные таблицы](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_adult_pivot_table_and_crosstab_standart_numpy_and_sort_practice.ipynb) и окончательно убедиться в том, что Pandas тоже ООП.
-9. [Разобраться как работает pd.melt и что](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_melt_and_visaul_practice.ipynb) может опйти не так если за ним не следить и использоватб как метлган.
+7. [Осознать - что датафрейм это тоже ООП](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_index_telecom_practice.ipynb) и что объекты в нём также можно использовать как ООП.
+8. [Посмотреть как делать свобные таблицы](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_adult_pivot_table_and_crosstab_standart_numpy_and_sort_practice.ipynb) и окончательно убедиться в том, что Pandas это тоже ООП.
+9. [Разобраться как работает pd.melt и что](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_melt_and_visaul_practice.ipynb) может ройти не так если за ним не следить и юзать как метлган.
 10. [Вспоминить о существовании True/False](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_testrain_indexing_true_false_practice.ipynb) и задуматься о том, как это работает в Pandas.
 11. [Разобраться как работает .map() в Pandas](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_telecom_standart_practice.ipynb) и постараться не забыть половину того что сверху.
-12. [Осонать, что типы данных - это очень важно](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_as_tool_for_logic_practice.ipynb) и что только ими можно как угодно крутить этим миром.
+12. [Осознать, что типы данных - это очень важно](https://github.com/HorusHeresyHeretic/Pandas_Practice/blob/master/Part_1/Pandas_as_tool_for_logic_practice.ipynb) и что только ими можно как угодно крутить этим миром.
 
 
 
