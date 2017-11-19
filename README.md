@@ -138,12 +138,20 @@
 1. [Восстание машин](https://habrahabr.ru/post/337040/) - просто огонь!
 2. [Текст и sklearn](https://habrahabr.ru/post/264339/) - в закладки на будущее.
 3. [kNN](https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn) - для тех кто может в английский.
+
+
 4. [Для тру танкистов](https://habrahabr.ru/post/319288/) - вдруг вы всё пропустили и вообще не читатель!
 5. [Фильтрация строк](http://pythonr.blogspot.ru/2015/04/dataframe-pandas-strcontains.html) - дико сложная aигня как фильтровать строки в pandas.
 6. [Шикарный мануал](https://alexanderdyakonov.wordpress.com/2016/08/03/python-категориальные-признаки/) - про то как работать с категориальными признаками.
+
+
 7. [Решаем Титаник](https://habrahabr.ru/post/202090/) - простой пример как человек решает Титанки.
 8. [Решаем Титаник](https://habrahabr.ru/post/274171/) - человек решает Титаник на 0.80383 точности.
 9. [Готовим данные](https://habrahabr.ru/post/342366/) - понятная статья о том, зачем чистить данные.
+
+
 10. [Свет истины](https://habrahabr.ru/post/340698/) - бог понятных комментариев к процессу анализа данных.
+
+
 11. [SNS](https://habrahabr.ru/post/266289/) - хорошая статься про возможности seaborn.
 12. [Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners) - годный data science tutorial for beginners.
